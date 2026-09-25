@@ -5,7 +5,6 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue.svg)](https://isocpp.org/)
 [![Paradigm](https://img.shields.io/badge/Paradigm-OOP-green.svg)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 *A modular, algorithm-driven supply chain and inventory management console application built with modern C++ Object-Oriented Programming (OOP) principles.*
 
@@ -120,8 +119,3 @@ g++ -std=c++17 -Iinclude src/*.cpp -o supplier_system
 # Çalıştırın
 ./supplier_system
 ```
-
----
-
-## 📜 License / Lisans
-Distributed under the **MIT License**. See `LICENSE` for more information.
